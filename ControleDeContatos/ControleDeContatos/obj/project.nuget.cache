@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l7wwXM4pFas/0udZOTYmM7lGBUxV+Zf8VuC3eIAyiVvFAQdRvns07MBuUyCjfedvS+eBhx7e2jyzjhJJjMtR1w==",
+  "dgSpecHash": "Scah4iwd6lpY2mPyegQbThHLXgd9NORmuiosiW961mIUwM2aaK4eFCo5j2VOCM9NjgL6p7Z0OX51OW7b9IOhWA==",
   "success": true,
   "projectFilePath": "/Users/oberdanmarinho/Projects/Youtube.ASPNetMVC-ControleDeContatos/ControleDeContatos/ControleDeContatos/ControleDeContatos.csproj",
   "expectedPackageFiles": [
@@ -113,12 +113,5 @@
     "/Users/oberdanmarinho/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/Users/oberdanmarinho/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /Users/oberdanmarinho/Projects/Youtube.ASPNetMVC-ControleDeContatos/ControleDeContatos/ControleDeContatos/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

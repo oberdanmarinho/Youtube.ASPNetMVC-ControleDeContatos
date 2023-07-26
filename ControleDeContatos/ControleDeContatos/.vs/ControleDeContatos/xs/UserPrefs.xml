@@ -1,23 +1,33 @@
 ﻿<Properties StartupConfiguration="{C5FFD766-9160-49AF-8394-9A0604C496BF}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ControleDeContatos PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Startup.cs" Line="45" Column="14" />
+      <File FileName="Data/BancoContext.cs" Line="18" Column="2" />
+      <File FileName="Migrations/20230726015900_250720232259.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ControleDeContatos">
+            <Node name="ControleDeContatos">
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20230726015900_250720232259.cs" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.ControleDeContatos PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ControleDeContatos" expanded="True">
-            <Node name="ControleDeContatos" expanded="True" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
 </Properties>
